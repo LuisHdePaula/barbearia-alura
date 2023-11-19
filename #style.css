@@ -1,9 +1,10 @@
 body{
     text-align:center;
-    background:#cccccc;}
+    background:#cccccc;
 }
 
 strong{
-    color:rgb(180, 94, 241);
+    color:deepskyblue
 }
- .banner{width:100%; }
+ .banner{
+    width:100% }
